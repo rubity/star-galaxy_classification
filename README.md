@@ -1,4 +1,4 @@
-# J-PAS star-galaxy separation via XGBoost
+# J-PAS star-galaxy separation via autosklearn
 
 [21 May 2025]
 
