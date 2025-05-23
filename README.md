@@ -33,8 +33,10 @@ We use [[**Auto-sklearn**](https://automl.github.io/auto-sklearn/master/)], an a
 #### Confusion Matrix
 
 <!-- <img src="figs/overall_cm_v5.png" width="500"/> -->
+<img src="figs/cm_17.png" width="500"/>
 <img src="figs/cm_17-19.png" width="500"/>
 <img src="figs/cm_19-20.png" width="500"/>
+<img src="figs/cm_20-21.png" width="500"/>
 <img src="figs/cm_21-22.png" width="500"/>
 <img src="figs/cm_22-22.5.png" width="500"/>
 
