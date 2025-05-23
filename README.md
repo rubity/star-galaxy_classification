@@ -30,7 +30,7 @@ We use [[**Auto-sklearn**](https://automl.github.io/auto-sklearn/master/)], an a
 
 ### Performance evaluation
 
-### Confusion Matrix
+#### Confusion Matrix
 
 <!-- <img src="figs/overall_cm_v5.png" width="500"/> -->
 <img src="figs/cm_17-19.png" width="500"/>
@@ -38,9 +38,12 @@ We use [[**Auto-sklearn**](https://automl.github.io/auto-sklearn/master/)], an a
 <img src="figs/cm_21-22.png" width="500"/>
 <img src="figs/cm_22-22.5.png" width="500"/>
 
-### Curves
+#### ROC curves
 
-<img src="figs/roc_curves.png" width="700"/>
-<img src="figs/pr_curves.png" width="700"/>
+<img src="figs/roc_curve.png" width="700"/>
+
+#### Precision Recall curves
+
+<img src="figs/pr_curve.png" width="700"/>
 
 <!-- <img src="figs/roc_pr_morpho.gif" width="900"/> -->
