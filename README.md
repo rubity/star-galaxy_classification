@@ -40,7 +40,7 @@ We use [[**Auto-sklearn**](https://automl.github.io/auto-sklearn/master/)], an a
 
 ### Curves
 
-<img src="figs/roc_curves.png" width="900"/>
-<img src="figs/pr_curves.png" width="900"/>
+<img src="figs/roc_curves.png" width="700"/>
+<img src="figs/pr_curves.png" width="700"/>
 
 <!-- <img src="figs/roc_pr_morpho.gif" width="900"/> -->
